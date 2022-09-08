@@ -30,10 +30,6 @@ h1 {
 }
 
 nav {
-    font-family: 'Franklin Gothic Medium', 'Times New Roman', Arial, sans-serif;
-    font-weight: 700;
-    text-align: left;
-    padding-bottom: 10px;
     width: 180px;
     max-width: 80%;
     max-height: 100%;
@@ -45,6 +41,9 @@ nav {
 }
 
 #list {
+    font-family: 'Franklin Gothic Medium', 'Times New Roman', Arial, sans-serif;
+    font-weight: 700;
+    text-align: left;
     display: flex;
     flex-direction: column;
     background-image: url(../imgs/arrow.png);
